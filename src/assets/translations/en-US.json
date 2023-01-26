@@ -1,7 +1,7 @@
 {
   "APP_NAME": "Infotec",
-  "Logged in as": "Logged in as",
-  "Remember me": "Remember me",
+  "Logged in as": "Acceso como",
+  "Remember me": "Recordarme",
   "languages": {
     "en-US": "English",
     "fr-FR": "French",
@@ -9,7 +9,7 @@
   },
   "labels": {
     "breadcrumbs": {
-      "Home": "Home"
+      "Home": "Principal"
     },
     "buttons": {
       "Dashboard": "Dashboard",
@@ -33,10 +33,10 @@
       "Username": "Usuario",
       "Password": "Contraseña",
       "Remember me": "Recordarme",
-      "Filter": "Filter",
+      "Filter": "Filtro",
       "products": {
         "loan": {
-          "Amortization": "Amortization",
+          "Amortization": "Amortización",
           "amortizationType": {
             "Equal installments": "Equal installments",
             "Equal principal payments": "Equal principal payments"
@@ -70,7 +70,7 @@
       "Configuration Wizard": "Apoyo para Configuración",
       "Clients": "Clientes",
       "Groups": "Groupos",
-      "Centers": "Centross",
+      "Centers": "Centros",
       "All": "Todo",
       "Loans": "Prestamos",
       "Savings": "Ahorros",
@@ -92,16 +92,16 @@
       "Language Selector": "Idioma",
       "Theme Picker": "Theme Picker",
       "Application Menu": "Menú de Aplicación",
-      "User Panel": "User Panel",
+      "User Panel": "Panel de Usuarios",
       "Frequently Accessed": "Frequently Accessed",
       "Dashboard": "Dashboard",
-      "Navigation": "Navigation",
+      "Navigation": "Navigación",
       "Frequent Postings": "Frequent Postings",
       "Create Journal Entry": "Create Journal Entry",
-      "Chart of Accounts": "Chart of Accounts",
-      "Notifications": "Notifications",
-      "Main Items": "Main Items",
-      "Checker Inbox and Tasks": "Checker Inbox and Tasks",
+      "Chart of Accounts": "Cuentas Contables",
+      "Notifications": "Notificaciones",
+      "Main Items": "Elementos Importantes",
+      "Checker Inbox and Tasks": "Tareas y Bandeja de Entrada",
       "Individual Collection Sheet": "Individual Collection Sheet",
       "Keyboard Shortcuts": "Keyboard Shortcuts"
     },
