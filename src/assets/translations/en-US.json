@@ -1,5 +1,5 @@
 {
-  "APP_NAME": "Mifos X",
+  "APP_NAME": "Infotec",
   "Logged in as": "Logged in as",
   "Remember me": "Remember me",
   "languages": {
@@ -13,26 +13,26 @@
     },
     "buttons": {
       "Dashboard": "Dashboard",
-      "Add": "Add",
-      "Back": "Back",
-      "Close": "Close",
-      "Next": "Next",
-      "Login": "Login",
-      "Create User": "Create User"
+      "Add": "Agregar",
+      "Back": "Previo",
+      "Close": "Cerrar",
+      "Next": "Siguiente",
+      "Login": "Ingresar",
+      "Create User": "Crear Usuario"
     },
     "commons": {
       "is required": "is required"
     },
     "inputs": {
-      "Tenant": "Tenant",
-      "Language": "Language",
+      "Tenant": "Empresa",
+      "Language": "Idioma",
       "Server": "Server",
       "Url": "Url",
-      "Login": "Login",
-      "Logout": "Logout",
-      "Username": "Username",
-      "Password": "Password",
-      "Remember me": "Remember me",
+      "Login": "Acceder",
+      "Logout": "Salir",
+      "Username": "Usuario",
+      "Password": "Contraseña",
+      "Remember me": "Recordarme",
       "Filter": "Filter",
       "products": {
         "loan": {
@@ -46,19 +46,19 @@
       }
     },
     "links": {
-      "Contribute": "Contribute",
-      "Resources": "Resources",
-      "Community": "Community",
-      "User Manual": "User Manual",
-      "Functional Specifications": "Functional Specifications",
-      "Developer Zone": "Developer Zone",
-      "User Group": "User Group",
-      "Developer Group": "Developer Group",
-      "IRC": "IRC",
-      "Key Design Principles": "Key Design Principles",
-      "Working with Code": "Working with Code",
-      "Donate": "Donate",
-      "Forgot Password?": "Forgot Password?"
+      "Contribute": "",
+      "Resources": "",
+      "Community": "",
+      "User Manual": "",
+      "Functional Specifications": "",
+      "Developer Zone": "",
+      "User Group": "",
+      "Developer Group": "",
+      "IRC": "",
+      "Key Design Principles": "",
+      "Working with Code": "",
+      "Donate": "",
+      "Forgot Password?": "Recuperar Contraseña"
     },
     "menus": {
       "Institution": "Institution",
@@ -87,7 +87,7 @@
       "Help": "Help",
       "Profile": "Profile",
       "Settings": "Settings",
-      "Sign Out": "Sign Out",
+      "Sign Out": "Cerrar Sesión",
       "Global Search": "Global Search",
       "Language Selector": "Language Selector",
       "Theme Picker": "Theme Picker",
@@ -110,9 +110,9 @@
       "Search Activity": "Search Activity"
     },
     "texts": {
-      "Welcome": "Welcome",
-      "Version": "Version",
-      "by": "by",
+      "Welcome": "Bienvenido",
+      "Version": "Versión",
+      "by": "desarrollador por ",
       "Login into Tenant": "Login into Tenant"
     }
   },
@@ -125,6 +125,6 @@
   },
   "tooltips": {
     "Settings": "Settings",
-    "Sign Out": "Sign Out"
+    "Sign Out": "Salir"
   }
 }
